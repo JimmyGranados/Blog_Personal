@@ -1,11 +1,11 @@
-I"�<p>This is a sample post.<br />
+I"Å<p>This is a sample post.<br />
 <dfn info="You can add extra information">Hover</dfn> me.</p>
 
 <h2 id="header">Header</h2>
 
-<h1 id="head-1-">Head 1: ‘#’</h1>
-<h2 id="head-2-">Head 2: ‘##’</h2>
-<h3 id="head-3-">Head 3: ‘###’</h3>
+<h1 id="head-1-">hola: â€˜#â€™</h1>
+<h2 id="head-2-">Head 2: â€˜##â€™</h2>
+<h3 id="head-3-">Head 3: â€˜###â€™</h3>
 
 <h2 id="code-block">Code block</h2>
 <p>A Python Example:</p>
